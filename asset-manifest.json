@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/virgilio/static/css/main.cb9db500.css",
+    "main.js": "/virgilio/static/js/main.dd590b82.js",
+    "index.html": "/virgilio/index.html",
+    "main.cb9db500.css.map": "/virgilio/static/css/main.cb9db500.css.map",
+    "main.dd590b82.js.map": "/virgilio/static/js/main.dd590b82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb9db500.css",
+    "static/js/main.dd590b82.js"
+  ]
+}
